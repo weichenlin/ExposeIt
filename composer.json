@@ -1,0 +1,18 @@
+{
+  "name": "aznc/expose-it",
+  "description": "Expose protected or private entry of a class",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WeiChen Lin",
+      "email": "weiclin@aznc.cc"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"AZnC\\ExposeIt\\": "src/"}
+  },
+  "require": {
+    "php": ">=5.5.0"
+  }
+}
